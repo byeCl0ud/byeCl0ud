@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @byeCl0ud
-- 👀 I’m interested in Apple devices jailbreak/bypass, Linux system administration and many more!
-- 🌱 I’m currently learning bash scripting, Azure web server administration, iOS app programming (Swift), Gentoo GNU/Linux on PowerPC architecture.
-- 💞️ I’m looking to collaborate on writing iOS/iPadOS/watchOS app for reading slovak version of Holy Bible. 
-- 📫 You can reach me here on Github, just write me DM and I'll gladly answer back!
+- 👀 I’m interested in Apple devices jailbreak/bypass, tinkering with Linux, playing with emulators and many more!
+- 🌱 I’m currently learning github actions (just a little, I'm not a programmer).
+- 📫 You can reach me here on Github, just write me DM and I'll gladly answer back sometime!
 
 <!---
 byeCl0ud/byeCl0ud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
